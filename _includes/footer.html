@@ -7,23 +7,21 @@
         <div class="footer-col-wrapper">
             <div class="footer-col">
                 <h2 class="footer-heading">{{ site.title | escape }}</h2>
-                {%- if site.author %}
-                <ul class="contact-list">
-                    {% if site.author.name -%}
-                    <li class="p-name">{{ site.author.name | escape }}</li>
-                    {% endif -%}
-                    {% if site.author.email -%}
-                    <li><a class="u-email"
-                           href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
-                    {%- endif %}
-                </ul>
-                {%- endif %}
+                <p>
+                    Embedded | ARM | Linux | RTOS 
+                    <br>
+                    Automotive | FPGA | RE | IOT 
+                </p>
             </div>
             <div class="footer-col">
-                <p>{{ site.description | escape }}</p>
+                <p>
+                    Website Theme and Its content
+                    are under the terms of MIT License.
+                    <br>
+                    website Theme forked from <a href="https://github.com/dfedrem"> David Federman</a>
+                </p>
             </div>
         </div>
-
         <div class="social-links">
             {%- include social.html -%}
         </div>

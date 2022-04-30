@@ -1,9 +1,9 @@
 # Site information
-title: David's Blog
-email: david.federman@outlook.com
+title: Maher's Blog
+email: m.maher@infinitytech.ltd
 description: Some guy's programming blog.
 baseurl: ""
-url: "https://dfederm.com"
+url: "https://maher.github.io"
 
 # Site settings
 permalink: /:title/
@@ -13,7 +13,7 @@ paginate_path: "/:num/"
 date_format: "%b %-d, %Y"
 
 disqus:
-  shortname: dfederm
+  shortname: maher
 
 google_analytics: UA-158306797-1
 google_ads: ca-pub-7807152857287265
