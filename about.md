@@ -16,4 +16,4 @@ I currently live in EGYPT, Generally interested in developing embedded systems t
 * [Github](https://github.com/Mr-JoE1){:target="_blank"} - projects I've developed
 * [LinkedIn](http://www.linkedin.com/in/Mr-JoE1){:target="_blank"} - My professional profile
 * [YouTube](https://www.youtube.com/infinitytech100){:target="_blank"} - My professional channel
-* [Infinity Technologies Ltd](www.infinitytech.ltd){:target="_blank"} - Since 2012
+* [Infinity Technologies Ltd](https://www.infinitytech.ltd){:target="_blank"} - Since 2012
